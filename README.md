@@ -3,7 +3,7 @@ See the greenhouse gas emissions caused by everyday decisions, like buying a ban
 
 # Installation
 
-1. Download [carbon-scanner-v2.apk](the app) to an Andiroid phone. 
+1. Download [the app](carbon-scanner-v2.apk) to an Andiroid phone. 
 2. Enable installation from unknown sources
 3. Click on the .apk file and install the app
 
@@ -26,7 +26,7 @@ You can be part of the movement to reducing greenhouse gas emissions to net zero
 
 # Do my actions make any difference?
 
-The [https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments](IPCC report), published in 2018, found that avoiding 2°C is still achievable in 2019. Technological, economic and political changes will all be crucial to trying to reduce humanity’s impact. However, the illustrative model pathways modelled in the report showed that this will require significant changes in lifestyles, particularly amongst those with greater access to resources. People are not able to quantify the environmental impacts of decisions they make in the same way that they quantify other vital parts of life. 
+The [IPCC report](https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments), published in 2018, found that avoiding 2°C is still achievable in 2019. Technological, economic and political changes will all be crucial to trying to reduce humanity’s impact. However, the illustrative model pathways modelled in the report showed that this will require significant changes in lifestyles, particularly amongst those with greater access to resources. People are not able to quantify the environmental impacts of decisions they make in the same way that they quantify other vital parts of life. 
 
 By enabling people to quantify the effects of their actions in terms of carbon emissions, choosing the right thing can be made easier. 
 
