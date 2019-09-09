@@ -4,11 +4,11 @@ See the greenhouse gas emissions caused by everyday decisions, like buying a ban
 # Why measure your carbon footprint?
 _“If you can’t measure it, you can’t improve it” - Peter Drucker_
 
-By quantifying the impact of your actions you can make better decisions. When it comes to money, calories or time it is common to measure the impacts of our decisions, but few people measure their carbon emissions.  
+By quantifying the impact of your actions you can make better decisions. When it comes to money, calories or time it is common to measure the impacts of our decisions, but few people measure their carbon emissions. 
 
 This project will help to elucidate how to measure the carbon footprint of peoples’ actions, and empower individuals and researchers to make the changes needed to make sure that we can live sustainably. As with other hidden impacts associated with items we consume, increasing visibility is the first step needed for individuals to make more informed decisions. Just as putting nutritional labels on food empowers billions to make better decisions for our health, displaying carbon footprints could help people make better decisions for our planet. 
 
-For instance, which took more greenhouse gas emissions to put on a shelf in a UK supermarket – a tomato or a banana? Perhaps you may be surprised to learn that most of the time the answer is the tomato*.
+For instance, which took more greenhouse gas emissions to put on a shelf in a UK supermarket – a tomato or a banana? Perhaps you may be surprised to learn that most of the time the answer is the tomato \[1\].
  
 You can be part of the movement to reducing greenhouse gas emissions to net zero. We know how much money we expect to part with when we do our shopping. Buying a banana is going to have a lesser impact on our pocket than buying a coffee, or a new jumper. But do you know what the impact is on the planet, and what can we do to make our lives more sustainable?
 
@@ -34,8 +34,14 @@ _Live life such that all other human lives on Earth can be sustained in equal ha
 
 I’m Artur Donaldson - a graduate from Imperial College London with a MSci degree in Physics. A background in science,  has given my scientific literacy and quantitative skills which I hope to use to tackle environmental issues. It has always been my passion to understand the environmental impacts of technology and our lifestyles, and this project is a small way in which I hope to contribute. Carbon foot-printing is not a new idea, and has been attempted before, but this project is the first time an impartial platform will have been created. The social and environmental impacts come before all else. I feel the frustration of researchers in trying to communicate research with the public, and also, from attending events.
 
-Data for this project are being sourced from the best available scientific literature and industry datasets. The mission is to give back to overlooked communities which make calculation of carbon footprints possible of our actions. 
+Data \[2\]\[3\] for this project are being sourced from the best available scientific literature and datasets. The mission is to give back to overlooked communities which make calculation of carbon footprints possible of our actions. 
 
 # References
 
-* Mike Berners-Lee How Bad Are Bananas
+\[1\] Berners-Lee, Mike. How Bad Are Bananas? The Carbon Footprint of Everything. London: Profile Books, 2010. _Most ot the time tomatoes are out of season and need to be grown in greenhouses heated by fossil fuels ... contributing to the greenhouse effect_
+
+\[2\] Poore, J., and T. Nemecek. “Reducing Food’s Environmental Impacts through Producers and Consumers.” Science 360, no. 6392 (June 1, 2018): 987–92. https://doi.org/10.1126/science.aaq0216.
+
+\[3\] Open Food Facts. “Open Food Facts.” Accessed September 9, 2019. https://world.openfoodfacts.org.
+
+More to come
