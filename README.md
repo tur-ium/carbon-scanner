@@ -26,7 +26,7 @@ You can be part of the movement to reducing greenhouse gas emissions to net zero
 
 # Do my actions make any difference?
 
-The IPCC report, published in 2018, found that avoiding 2°C is still achievable in 2019. Technological, economic and political changes will all be crucial to trying to reduce humanity’s impact. However, the illustrative model pathways modelled in the report showed that this will require significant changes in lifestyles, particularly amongst those with greater access to resources. People are not able to quantify the environmental impacts of decisions they make in the same way that they quantify other vital parts of life. 
+The [https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments](IPCC report), published in 2018, found that avoiding 2°C is still achievable in 2019. Technological, economic and political changes will all be crucial to trying to reduce humanity’s impact. However, the illustrative model pathways modelled in the report showed that this will require significant changes in lifestyles, particularly amongst those with greater access to resources. People are not able to quantify the environmental impacts of decisions they make in the same way that they quantify other vital parts of life. 
 
 By enabling people to quantify the effects of their actions in terms of carbon emissions, choosing the right thing can be made easier. 
 
@@ -55,5 +55,7 @@ Data \[2\]\[3\] for this project are being sourced from the best available scien
 \[2\] Poore, J., and T. Nemecek. “Reducing Food’s Environmental Impacts through Producers and Consumers.” Science 360, no. 6392 (June 1, 2018): 987–92. https://doi.org/10.1126/science.aaq0216.
 
 \[3\] Open Food Facts. “Open Food Facts.” Accessed September 9, 2019. https://world.openfoodfacts.org.
+
+\[4\] IPCC. “Summary for Policymakers of IPCC Special Report on Global Warming of 1.5°C Approved by Governments — IPCC.” Accessed May 2, 2019. https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments/.
 
 More to come
