@@ -1,6 +1,18 @@
 # Carbon Scanner
 See the greenhouse gas emissions caused by everyday decisions, like buying a banana or tin of fish, in real time. 
 
+# Installation
+
+1. Download [carbon-scanner-v2.apk](the app) to an Andiroid phone. 
+2. Enable installation from unknown sources
+3. Click on the .apk file and install the app
+
+# Privacy & Permissions used
+* Camera - for scanning barcodes
+
+Barcodes are sent via http to an Open Food Facts servers in order to determine the type of item scanned. No other information is transferred via the internet or shared.
+
+
 # Why measure your carbon footprint?
 _“If you can’t measure it, you can’t improve it” - Peter Drucker_
 
