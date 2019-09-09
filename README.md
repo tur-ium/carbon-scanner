@@ -3,7 +3,7 @@ See the greenhouse gas emissions caused by everyday decisions, like buying a ban
 
 # Installation
 
-1. Download [the app](carbon-scanner-v2.apk) to an Andiroid phone. 
+1. Download [the app](carbon-scanner-v2.apk) to an Android phone. 
 2. Enable installation from unknown sources
 3. Click on the .apk file and install the app
 
