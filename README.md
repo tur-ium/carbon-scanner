@@ -33,8 +33,9 @@ By enabling people to quantify the effects of their actions in terms of carbon e
 Technology and prosperity has empowered people to do good things. This is something to celebrate – from the increase in life expectancy across the world and connecting billions of people to the internet. But it has also given power to do things which are not-so-good, certainly when it comes to the impact on climate, such as buying budget flights, eating high-carbon diets and stimulating the production of items which have a high embodied carbon. 
 
 # Contact
+Don't be a bot (remove any dashes)
 
-arturdonaldson@protonmail.com
+artur--don-aldson -AT protonmail DOT com
 
 # How?
 
