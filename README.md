@@ -2,10 +2,14 @@
 See the greenhouse gas emissions caused by everyday decisions, like buying a banana or tin of fish, in real time. 
 
 # Installation
+Download from Google Play [here](https://play.google.com/store/apps/details?id=com.turium.carbondetox)
 
-1. Download [the app](carbon-scanner-v2.apk) to an Android phone. 
-2. Enable installation from unknown sources
-3. Click on the .apk file and install the app
+OR
+
+Download [the app](carbon-scanner-v2.apk) to an Android phone.  
+Click on the .apk file and install the app
+
+If you are downloading the app directly ensure that you allow "installation from unknown sources"
 
 # Privacy & Permissions used
 * Camera - for scanning barcodes
