@@ -13,8 +13,9 @@ If you are downloading the app directly ensure that you allow "installation from
 
 # Privacy & Permissions used
 * Camera - for scanning barcodes
+* Full network access - to look up barcodes so as to work out what is being scanned.
 
-Barcodes are sent via http to an Open Food Facts servers in order to determine the type of item scanned. No other information is transferred via the internet or shared.
+Barcodes are sent via http to the Open Food Facts servers. No other information is transferred via the internet or shared.
 
 
 # Why measure your carbon footprint?
