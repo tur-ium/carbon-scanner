@@ -4,7 +4,7 @@ See the greenhouse gas emissions caused by everyday decisions, like buying a ban
 # BOUNTY
 There is still time to take part in the bounty for best suggestions and/or most significant bugs. After trying the app, come back here and click on the Issues tab then click "New Issue" and give feedback!
 
-Bouty prize to be decided. Possibly may involve your name in the app.
+Bounty prize to be decided. Possibly may involve your name in the app.
 
 # Installation
 Download from Google Play [here](https://play.google.com/store/apps/details?id=com.turium.carbondetox)
